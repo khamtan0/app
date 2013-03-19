@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ຜູ້ໃຫ້ບໍລິການແອັບພລິເຄຊັນການຄົ້ນຫາ</string>
+    <string name="search_label">ແອັບສ໌</string>
+    <string name="application_desc">ແອັບພລິເຄຊັນ</string>
+    <string name="settings_description">ຊື່ແອບພລິເຄຊັນທີ່ຕິດຕັ້ງ</string>
+</resources>

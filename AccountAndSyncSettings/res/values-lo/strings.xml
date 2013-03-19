@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ການຕັ້ງຄ່າບັນຊີແລະການຊິງຄ໌ຂໍ້ມູນ</string>
+    <string name="sync_settings">ການຕັ້ງຄ່າບັນຊີແລະການຊິງຄ໌</string>
+    <string name="sync_too_many_deletes">ເກີນຈຳນວນການລົບສູງສຸດ</string>
+    <string name="background_data">ຂໍ້ມູນພື້ນຫຼັງ</string>
+    <string name="background_data_summary">ແອັບພລິເຄຊັນສາມາດຊິງຄ໌ ສົ່ງແລະຮັບຂໍ້ມູນໄດ້ທຸກເວລາ</string>
+    <string name="background_data_dialog_title">ຄວນຮູ້</string>
+    <string name="background_data_dialog_message">ການປິດໃຊ້ງານຂໍ້ມູນພື້ນຫຼັງຈະຊ່ວຍຮັກສາແບັດເຕີຣີແລະລົດການໃຊ້ຂໍ້ມູນແອັບພລິເຄຊັນບາງຢ່າງຍັງອາດໃຊ້ການເຊື່ອມຕໍ່ຂໍ້ມູນພື້ນຫຼັງຕໍ່ໄປ</string>
+    <string name="sync_automatically">ຊິງຄ໌ອັດຕະໂນມັດ</string>
+    <string name="sync_automatically_summary">ແອັບພລິເຄຊັນຊິງຄ໌ຂໍ້ມູນອັດຕະໂນມັດ</string>
+    <string name="settings_backup">ສຳຮອງຂໍ້ມູນການຕັ້ງຄ່າ</string>
+    <string name="settings_backup_summary">ສຳຮອງຂໍ້ມູນການຕັ້ງຄ່າ</string>
+    <string name="sync_menu_sync_now">ຊິງຄ໌ດຽວນີ້</string>
+    <string name="sync_menu_sync_cancel">ຍົກເລີກການຊິງຄ໌</string>
+    <string name="sync_one_time_sync">"ກົດເພື່ອຊິງຄ໌ດຽວນີ້
+%1$s"</string>
+    <string name="sync_gmail">Gmail</string>
+    <string name="sync_calendar">ປະຕິທິນ</string>
+    <string name="sync_contacts">ລາຍຊື່</string>
+    <string name="sync_too_many_deletes_desc">ພົບລາຍການທີ່ຖືກລົບ %1$d ລາຍການສຳລັບ %2$s ບັນຊີ %3$s ທ່ານຕ້ອງການເຮັດຫຍັງ</string>
+    <string name="sync_really_delete">ລົບລາຍການ</string>
+    <string name="sync_undo_deletes">ຍົກເລີກການລົບ</string>
+    <string name="sync_do_nothing">ຂະນະນີ້ບໍ່ໄດ້ເຮັດຫຍັງ</string>
+    <string name="sync_is_failing">ຂະນະນີ້ພົບປັນຫາໃນການຊິງຄ໌ ບຶດດຽວຈະກັບມາດຳເນີນການຕໍ່</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">ຍິນດີຕ້ອນຮັບສູ່ Google sync!</font>"
+ວິທີການຂອງ Google ໃນການຊິງຄ໌ຂໍ້ມູນເພື່ອໃຫ້ທ່ານເຂົ້າເຖິງສະມຸດໂທລະສັບ ນັດໝາຍ ແລະຂໍ້ມູນອື່ນໆຂອງທ່ານ ໄດ້ໃນທຸກທີ່"</string>
+    <string name="header_application_sync_settings">ການຕັ້ງຄ່າການຊິງຄ໌ແອັບພລິເຄຊັນ</string>
+    <string name="header_manage_accounts">ຈັດການບັນຊີ</string>
+    <string name="header_general_sync_settings">ການຕັ້ງຄ່າການຊິງຄ໌</string>
+    <string name="sync_enabled">ເປີດການຊິງຄ໌</string>
+    <string name="sync_disabled">ປິດການຊິງຄ໌</string>
+    <string name="sync_error">ຂໍ້ຜິດພາດໃນການຊິງຄ໌</string>
+    <string name="add_account_label">ເພີ່່ມບັນຊີ</string>
+    <string name="header_data_and_synchronization">ຂໍ້ມູນແລະການຊິງຄ໌</string>
+    <string name="preference_change_password_title">ປ່ຽນລະຫັດຜ່ານ</string>
+    <string name="header_account_settings">ການຕັ້ງຄ່າບັນຊີ</string>
+    <string name="remove_account_label">ລົບບັນຊີ</string>
+    <string name="header_add_an_account">ເພີ່ມບັນຊີ</string>
+    <string name="finish_button_label">ສຳເລັດ</string>
+    <string name="really_remove_account_title">ລົບບັນຊີ</string>
+    <string name="really_remove_account_message">"ທ່ານແນ່ໃຈຫຼືບໍ່ວ່າຕ້ອງການເອົາບັນຊີນີ້ອອກ ການເອົາບັນຊີອອກຈະລົບຂໍ້ຄວາມທີ່ຢູ່ຕິດຕໍ່ແລະຂໍ້ມູນອື່ນໆທັງໝົດອອກຈາກໂທລະສັບ 
+ເຮັດຕໍ່ໄປຫຼືບໍ່"</string>
+    <string name="remove_account_failed">ບັນຊີນີ້ຍັງຈຳເປັນຕ້ອງໃຊ້ສຳລັບບາງແອັບພລິເຄຊັນ ທ່ານສາມາດເອົາບັນຊີອອກໄດ້ໂດຍ ການລົບລ້າງຂໍ້ມູນທັງໝົດດ້ວຍການຕັ້ງຄ່າຂໍ້ມູນຈາກໂຮງງານ ເທົ່ານັ້ນ (ການເຮັດແບບນີ້ຈະລົບຂໍ້ມູນສ່ວນບຸກຄົນທັງໝົດ) ທ່ານສາມາດເຮັດໄດ້ໃນ ລາຍການສ່ວນຕົວ>ຕັ້ງຄ່າຂໍ້ມູນຈາກໂຮງງານ</string>
+    <string name="provider_label">ການສະມັກຮັບຂໍ້ມູນແບບ Push</string>
+    <string name="sync_item_title">ຊິງຄ໌ %s</string>
+    <string name="cant_sync_dialog_title">ຊິງຄ໌ດ້ວຍຕົນເອງບໍ່ໄດ້</string>
+    <string name="cant_sync_dialog_message">ການຊິງຄ໌ສຳລັບລາຍການນີ້ໂດນປິດໃຊ້ງານໃນຂະນະນີ້ ຫາກຕ້ອງການປ່ຽນຄ່າກຳນົດຂອງທ່ານ ໃຫ້ເປີໃຊ້ງານຂໍ້ມູນພື້ນຫຼັງການຊິງຄ໌ອັດຕະໂນມັດ</string>
+</resources>

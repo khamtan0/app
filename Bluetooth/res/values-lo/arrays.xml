@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>ໜຶ່ງໜ້າຕໍ່ດ້ານ</item>
+        <item>ສອງໜ້າຕໍ່ດ້ານ</item>
+        <item>ສີ່ໜ້າຕໍ່ດ້ານ</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>ລວງຕັ້ງ</item>
+        <item>ລວງນອນ</item>
+        <item>ປິ້ນລວງນອນ</item>
+        <item>ປິ້ນລວງຕັ້ງ</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>ລວງຕັ້ງ</item>
+        <item>ລວງນອນ</item>
+        <item>ປິ້ນລວງນອນ</item>
+        <item>ປິ້ນລວງຕັ້ງ</item>
+    </string-array>
+    <string-array name="sides">
+        <item>ໜຶ່ງດ້ານ</item>
+        <item>ສອງດ້ານຂອບຍາວ</item>
+        <item>ສອງດ້ານຂອບສັ້ນ</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>ໜຶ່ງດ້ານ</item>
+        <item>ສອງດ້ານຂອບຍາວ</item>
+        <item>ສອງດ້ານຂອບສັ້ນ</item>
+    </string-array>
+</resources>
